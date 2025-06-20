@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/aayushbhardwaj0001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
-  <a href="https://twitter.com/aayu_bhardwajj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="30" /></a>
-  <!-- Add your links above -->
+  <a href="https://www.linkedin.com/in/aayushbhardwaj0001" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
+  </a>
 </p>
 
 ---
@@ -44,7 +44,9 @@
 
 ---
 
-<h3 align="left">Contribution Graph:</h3>
+<h3 align="left">Contribution Graph - Pacman Game 🍒</h3>
+<p>Enjoy my contributions being chased around like Pacman! 👻</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AayuBhardwajj/AayuBhardwajj/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AayuBhardwajj/AayuBhardwajj/output/pacman-contribution-graph.svg">
