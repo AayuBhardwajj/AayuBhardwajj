@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=aayubhardwajj&label=Profile%20views&color=0e75b6&style=flat" alt="aayubhardwajj" />
 </p>
 
-- 🌱 I’m currently learning **Java DSA, Java Backend Development**
+- 🌱 I’m currently learning **DATA STRUCTURES,TECHNOLOGIES BEING IMPLEMENTED IN BACKEND SERVERS, HLLD, LLD**
 
 - 📫 How to reach me: **bhardwajAayush26@gmail.com**
 
